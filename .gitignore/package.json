@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Le bot officiel de KevFunGames",
   "main": "main.js",
-  "scripts": { "start": "node index.js" },
+  "scripts": { "start": "node main.js" },
   "author": "KevFunGames",
   "license": "ISC",
   "dependencies": {
